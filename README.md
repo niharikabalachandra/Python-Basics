@@ -36,11 +36,11 @@ Download Anaconda from https://www.anaconda.com/download/
 
 Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.6 options are available. We'll work in version 3.6
 
-## Launching IPython Notebook
+## Launching Jupyter Notebook
 
 From the terminal
 
-    ipython notebook
+    Jupyter notebook
 
 Launch ipython notebook from the folder which contains the notebooks. Open each one of them
 
