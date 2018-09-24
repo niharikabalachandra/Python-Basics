@@ -1,7 +1,5 @@
 # Python-Basics
 
-# Python
-
 ## Introduction
 
 Python is a modern, robust, high level programming language. It is very easy to pick up even if you are completely new to programming.
